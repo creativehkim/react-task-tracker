@@ -7,16 +7,16 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "Cut Elsa nails",
-      "day": "Feb 7th at 12:20pm",
-      "reminder": false
-    },
-    {
       "text": "Apply for a job",
       "day": "Everyday",
-      "reminder": true,
+      "reminder": false,
       "id": 4
+    },
+    {
+      "text": "hello world",
+      "day": "hhh",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
